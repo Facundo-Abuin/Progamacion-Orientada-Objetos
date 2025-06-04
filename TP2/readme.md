@@ -20,7 +20,7 @@ Funcionalidades
 - Encontrar el vehículo más caro.
 - Encontrar el vehículo más barato.
 - Buscar el primer vehículo cuyo modelo contenga una letra específica (ej. `Y`).
-- Ordenar los vehículos por orden natural (`Comparable`).
+- Ordenar los vehículos por orden natural.
 
 ---
 
@@ -28,4 +28,4 @@ Tecnologías utilizadas
 
 - Java 21
 - Lombok
-- Maven (gestión de dependencias)
+- Maven
