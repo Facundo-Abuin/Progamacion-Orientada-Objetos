@@ -10,7 +10,7 @@ Estructura
 - Auto: clase que representa un automóvil, hereda de Vehiculo.
 - Moto: clase que representa una moto, hereda de Vehiculo.
 - VehicleService: clase que simula el sistema, contiene una lista de vehículos y métodos para ordenarlos, filtrarlos y analizarlos.
-- Concesionario: clase que ejecuta el programa principal.
+- Concesionario: clase que ejecuta el programa.
 
 ---
 
